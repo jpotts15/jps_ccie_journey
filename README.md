@@ -1,3 +1,4 @@
+# My CCIE Journey
 The real intent here is to document resources, my setup and other things for reference for others. So many little things that can become time sinks that would be better spent elsewhere. I prefer to read and see docs and will try to keep most things in that formnat unless a video makes sense. I mainly am put off by the modern everything has to be "content", if you want that go to youtube and search ccie journey and there are tons of things on there but unfortunately many don't have any actual value. 
 
 ## Money and Time
