@@ -23,3 +23,6 @@ Probably not in all honesty, its a lot of time and money to spend. I'm establish
 ## Lab Topology 
 My lab, I've been getting by on the workstation for years and just bought the server specifically for DNAC
 ![ccie_lab_physical](https://github.com/jpotts15/poor_lazy_ccie_journey/assets/110405079/adcc27bc-c6eb-47a3-8f5e-7ba3f2322f19)
+
+## Quick Notes
+DNA Center is a real pain, plan to install DNAC when you have other things to do, press the button and walk away
